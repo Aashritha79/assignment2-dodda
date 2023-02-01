@@ -17,4 +17,12 @@
  
  ---
  
+ #### Quotes
  
+> I am not bound to win, but I am bound to be true- *Abraham Lincoln*
+
+> If I cannot do great things, I can do small things in a great way- *Martin Luther King Jr*
+
+
+
+
