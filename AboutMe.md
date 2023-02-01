@@ -24,5 +24,20 @@
 > If I cannot do great things, I can do small things in a great way- *Martin Luther King Jr*
 
 
-
+### Code Fencing
+~~~.header {
+    z-index: 1;
+    display: flex;
+    flex-flow: row nowrap;
+    position: fixed;
+    height: 68px;
+    border-bottom: 1px solid seashell;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+    
+    width: 100%;
+    margin: 0 40px;
+}
+~~~
 
