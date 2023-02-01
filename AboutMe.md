@@ -3,9 +3,12 @@
 
 ![Aash here](https://user-images.githubusercontent.com/123049325/215919924-09d64d1f-44f4-4110-b9e5-55eab5257d4b.jpeg)
 
+---
+
 ## TABLES
 
 > The below table displays names of the country which I would like to recommend to people
+
 
 
 |Country_Name|Famous for|Duration|
