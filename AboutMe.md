@@ -23,6 +23,8 @@
 
 > If I cannot do great things, I can do small things in a great way- *Martin Luther King Jr*
 
+---
+
 
 ### Code Fencing
 ~~~.header {
@@ -43,4 +45,6 @@
 
 > [QUICK LONK FOR THAT SOURCE CODE]  
 > https://stackoverflow.com/questions/75313678/css-margin-right-doesnt-apply
+
+---
 
