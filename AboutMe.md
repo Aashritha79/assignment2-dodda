@@ -2,4 +2,19 @@
 > My name is Aashritha.I'm here in the US to pursue my masters in Computer Science from Northwest Missouri State University. I love to travel and explore. Enthusiastic to learn different technologies and update myself everyday.
 
 ![Aash here](https://user-images.githubusercontent.com/123049325/215919924-09d64d1f-44f4-4110-b9e5-55eab5257d4b.jpeg)
+
+## TABLES
+
+> The below table displays names of the country which I would like to recommend to people
+
+
+|Country_Name|Famous for|Duration|
+|---|---|---|
+|India|Holy Temples|10 Days|
+|Japan|Cherry Blossom|8 Days|
+|Italy|Food|5 Days|
+|Belgium|Chocolates|3 Days|
+ 
+ ---
+ 
  
