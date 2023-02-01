@@ -41,3 +41,6 @@
 }
 ~~~
 
+> [QUICK LONK FOR THAT SOURCE CODE]  
+> https://stackoverflow.com/questions/75313678/css-margin-right-doesnt-apply
+
